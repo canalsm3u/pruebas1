@@ -3,3 +3,11 @@
 ************************  16/04/2025  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 ***********************************************************************************************************************************************
+########### SECCIÓN: MOVISTAR+ ###########
+#EXTINF:-1 tvg-id="MOVISTAR_PLUS" tvg-name="MOVISTAR+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/032f19795e57ea01c91e4480ff0462b2e42412d5/countries/spain/movistar-plus-es.png" group-title="MOVISTAR+",MOVISTAR+ (1)
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-id="MOVISTAR_PLUS" tvg-name="MOVISTAR+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/032f19795e57ea01c91e4480ff0462b2e42412d5/countries/spain/movistar-plus-es.png" group-title="MOVISTAR+",MOVISTAR+ (2)
+acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1 tvg-id="MOVISTAR_PLUS" tvg-name="MOVISTAR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Movistar_Plus%2B2.jpg/1200px-Movistar_Plus%2B2.jpg" group-title="MOVISTAR+",MOVISTAR+ (3)
+acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+
